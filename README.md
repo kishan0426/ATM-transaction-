@@ -4,6 +4,6 @@ This simple program asks input for cash withdrawal with password, process the tr
 
 Input
 
-password - <provide the password>
-amount - <enter the amount to be withdrawn>
-rewithdraw - <if another transaction to be performed>
+password - provide the password
+amount - enter the amount to be withdrawn
+rewithdraw - if another transaction to be performed
